@@ -1,7 +1,7 @@
 package FrameWorkPratice;
-package frameWork.AbstractComponent;
+package FrameWorkPratice;
 import java.time.Duration;
-public class ShreyaJain 
+public class kutiya 
 {
 	
 	import java.time.Duration;
