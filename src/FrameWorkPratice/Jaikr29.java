@@ -1,7 +1,7 @@
 package FrameWorkPratice;
 package frameWork.AbstractComponent;
 import java.time.Duration;
-public class Jaikr 
+public class Jaikr29 
 {
 	
 	import java.time.Duration;
